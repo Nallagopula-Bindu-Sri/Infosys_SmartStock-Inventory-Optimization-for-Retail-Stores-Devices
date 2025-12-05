@@ -1,0 +1,2 @@
+# Infosys_SmartStock-Inventory-Optimization-for-Retail-Stores-Devices
+Infosys SmartStock is an intelligent inventory optimization solution designed to help retail stores efficiently manage device stocks. The system leverages data-driven forecasting, automated replenishment logic, and smart analytics to ensure the right products are available at the right time—minimizing stockouts and excess inventory.
